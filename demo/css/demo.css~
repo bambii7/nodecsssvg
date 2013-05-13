@@ -1,0 +1,6 @@
+
+.test {
+	position: relative;
+	background: #FFF url(../svg/sample.svg) 0 0 no-repeat;
+	font-size: 12px;
+}
