@@ -3,6 +3,8 @@ nodecsssvg
 
 A node script to aid SVGs in CSS. 
 
+Requires imagemagick-native https://github.com/mash/node-imagemagick-native
+
 ----------
 
 ## About
@@ -15,3 +17,7 @@ Currently encoding SVG files into a CSS file is a fairly manual process. And onc
 1. Keep visibility of the assets
 2. Auto encode asset data for cleaner source files
 3. Auto generate PNG fallbacks
+
+## Usage
+
+... to come
