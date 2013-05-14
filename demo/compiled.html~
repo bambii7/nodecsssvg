@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8" />
 	<title>SVG Tool</title>
-	<link rel="stylesheet" href="bin/ie7down-svg-encoded.css" type="text/css" media="screen" title="demo" charset="utf-8"/>
+	<link rel="stylesheet" href="bin/ie8up-svg-encoded.css" type="text/css" media="screen" title="demo" charset="utf-8"/>
 </head>
 <body>
     <div id="test3">&nbsp;</div>

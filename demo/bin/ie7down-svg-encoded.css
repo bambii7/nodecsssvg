@@ -1,0 +1,24 @@
+
+.test1 {
+    width: 763px;
+    height: 765px;
+    /* source http://openclipart.org/detail/177843/decoration-flower-2-by-olku-177843 */
+    background: #FFF url('flowers_watercolor.png') 0 0 no-repeat;
+    font-size: 12px;
+}
+.test2 {
+    width: 990px;
+    height: 765px;
+    position: relative;
+    /* source http://openclipart.org/people/Romanov/Romanov_Mushroom_.svg */
+    background: #FFF url('Romanov_Mushroom_.png') 0 0 no-repeat;
+    font-size: 12px;
+}
+#test3 {
+    width: 469px;
+    height: 432px;
+    position: relative;
+    /* source http://openclipart.org/detail/102643/windows-bug-by-utrescu */
+    background: #FFF url('winbug.png') 0 0 no-repeat;
+    font-size: 12px;
+}
